@@ -16,4 +16,4 @@
 
 ![Joshwyn’s Streak](https://github-readme-streak-stats.herokuapp.com/?user=JoshwynP&hide_border=true&background=1a1b26&ring=82aaff&fire=c792ea&currStreakLabel=82aaff&sideNums=ffffff&sideLabels=ffffff&dates=cccccc)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshwynP&show_icons=true&hide_border=true&layout=compact&title_color=c792ea&text_color=ffffff&bg_color=1a1b26&exclude_repo=machine-learning-book)
+![Languages](https://github-readme-stats.vercel.app/api/wakatime?username=JoshwynP&layout=compact&langs_count=8&bg_color=1a1b26&title_color=c792ea&text_color=ffffff)
