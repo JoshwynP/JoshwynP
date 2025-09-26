@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1>👋 Hey! I’m Joshwyn</h1>
+<p>Welcome to my GitHub profile!</p>
 
-<!--
-**JoshwynP/JoshwynP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<ul>
+  <li>🚀 I’m passionate about <b>software development</b>, <b>design</b>, and <b>creative projects</b>.</li>
+  <li>📷 In my free time, I enjoy <b>Playing sports</b> and experimenting with new tech.</li>
+  <li>💼 Let’s connect — feel free to reach out on <a href="https://www.linkedin.com/in/joshwynparekh">LinkedIn</a>!</li>
+</ul>
 
-Here are some ideas to get you started:
+🌐 Check out my new website: [JoshwynP.github.io](https://JoshwynP.github.io)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 My GitHub Stats
+![Joshwyn’s Stats](https://github-readme-stats.vercel.app/api?username=JoshwynP&theme=slateorange&show_icons=true&hide_border=true&count_private=true)
+
+![Joshwyn’s Streak](https://github-readme-streak-stats.herokuapp.com/?user=JoshwynP&theme=slateorange&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshwynP&theme=slateorange&show_icons=true&hide_border=true&layout=compact)
