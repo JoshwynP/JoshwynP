@@ -14,4 +14,4 @@
 ### 📊 My GitHub Stats
 ![Joshwyn’s Stats](https://github-readme-stats.vercel.app/api?username=JoshwynP&show_icons=true&hide_border=true&count_private=true&title_color=c792ea&icon_color=82aaff&text_color=ffffff&bg_color=1a1b26)
 
-![Joshwyn’s Streak](https://github-readme-streak-stats.herokuapp.com/?user=JoshwynP&hide_border=true&background=1a1b26&ring=82aaff&fire=c792ea&currStreakLabel=82aaff&sideNums=ffffff&sideLabels=ffffff&dates=cccccc)
+![Joshwyn’s Streak](https://github-readme-streak-stats.herokuapp.com/?user=JoshwynP&hide_border=true&background=1a1b26&ring=82aaff&fire=c792ea&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=cccccc)
