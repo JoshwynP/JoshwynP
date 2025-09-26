@@ -1,4 +1,4 @@
-<h1>👋 Hey! I’m Joshwyn</h1>
+<h1>I’m Joshwyn Parekh</h1>
 <p>Welcome to my GitHub profile!</p>
 
 <ul>
@@ -12,8 +12,8 @@
 ---
 
 ### 📊 My GitHub Stats
-![Joshwyn’s Stats](https://github-readme-stats.vercel.app/api?username=JoshwynP&theme=slateorange&show_icons=true&hide_border=true&count_private=true)
+![Joshwyn’s Stats](https://github-readme-stats.vercel.app/api?username=JoshwynP&show_icons=true&hide_border=true&title_color=8b5cf6&icon_color=8b5cf6&text_color=ffffff&bg_color=0d1117)
 
-![Joshwyn’s Streak](https://github-readme-streak-stats.herokuapp.com/?user=JoshwynP&theme=slateorange&hide_border=true)
+![Joshwyn’s Streak](https://github-readme-streak-stats.herokuapp.com/?user=JoshwynP&hide_border=true&background=0d1117&ring=8b5cf6&fire=8b5cf6&currStreakLabel=8b5cf6)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshwynP&theme=slateorange&show_icons=true&hide_border=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshwynP&layout=compact&hide_border=true&title_color=8b5cf6&text_color=ffffff&bg_color=0d1117)
